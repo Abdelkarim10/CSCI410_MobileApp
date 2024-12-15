@@ -1,6 +1,6 @@
 # lower_case
 
-A new Flutter project.
+Project1 Flutter project.
 
 ## Getting Started
 
